@@ -43,7 +43,7 @@ public class Solution {
             }
         }
         // 转成字符串
-        return newChars.toString();
+        return String.valueOf(newChars);
     }
 }
 ```
